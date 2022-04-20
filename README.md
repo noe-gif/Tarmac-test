@@ -25,7 +25,7 @@ Baucause one picture made by me is worth a thousand words :
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/noe-gif/Tarmac-test.git
+$ git clone https://github.com/noe-gif/Tarmac-jet-facile.git
 $ npm i
 $ npm start
 ```
