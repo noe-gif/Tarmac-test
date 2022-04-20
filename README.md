@@ -23,14 +23,14 @@ Redux lifecycle (redux improves the accessibility of a state in the components l
 
 <img src="https://cdn.discordapp.com/attachments/965224699367927808/965746656052138085/redux-lifecycle.png" />
 
-## clone or download
+## Usage (clone)
 ```terminal
 $ git clone https://github.com/noe-gif/Tarmac-jet-facile.git
 $ npm i
 $ npm start
 ```
 
-## test
+## Usage (test)
 ```terminal
 $ npm run test
 ```
