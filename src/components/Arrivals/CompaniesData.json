@@ -1,0 +1,477 @@
+{
+	"data": [
+		{
+			"AirlineName": "American Airlines",
+			"logoUrl": "https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a.jpg"
+		},
+		{
+			"AirlineName": "Delta Air Lines",
+			"logoUrl": "https://logotaglines.com/wp-content/uploads/2022/02/Delta-Air-Lines-Logo-Tagline-Slogan.jpg"
+		},
+		{
+			"AirlineName": "United Airlines",
+			"logoUrl": "https://cdn.discordapp.com/attachments/688472316514009104/965942099046465536/united-airlines-logo-emblem-png-5.png",
+			"size": "100px100px"
+		},
+		{
+			"AirlineName": "Suparna Airlines",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965967925758558278/Sans_titre.png"
+		},
+		{
+			"AirlineName": "China Southern Airlines",
+			"logoUrl": "https://i.pinimg.com/474x/63/9f/60/639f60820c1de1c385152d7d2d125e2d.jpg"
+		},
+		{
+			"AirlineName": "China Eastern",
+			"logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUjMoRPxZYcWK7v6VgdcQKw1P-azIGM2GhXqdCOT6nZrF0H00qsLsVP5j-j0miGBIVV8&usqp=CAU"
+		},
+		{
+			"AirlineName": "SkyWest Airlines",
+			"logoUrl": "https://seeklogo.com/images/S/SkyWest_Airlines-logo-D6F28DEE0D-seeklogo.com.gif"
+		},
+		{
+			"AirlineName": "China Postal Airlines",
+			"logoUrl": "https://logoeps.com/wp-content/uploads/2012/12/air-china-logo-vector.png"
+		},
+		{
+			"AirlineName": "FedEx",
+			"logoUrl": "https://seeklogo.com/images/F/FedEx_Express-logo-805E692722-seeklogo.com.png"
+		},
+		{
+			"AirlineName": "Ryanair",
+			"logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/63/0d/ca/630dca1b-72a4-c984-d4ce-4a151c2cffde/source/512x512bb.jpg"
+		},
+		{
+			"AirlineName": "Ryanair Sun",
+			"logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/63/0d/ca/630dca1b-72a4-c984-d4ce-4a151c2cffde/source/512x512bb.jpg"
+		},
+		{
+			"AirlineName": "Expressjet",
+			"logoUrl": "https://logodix.com/logo/1676905.png"
+		},
+		{
+			"AirlineName": "Turkish Airlines",
+			"logoUrl": "https://i.pinimg.com/originals/58/c0/c2/58c0c20a412c9a31d095a40cb61904a0.jpg"
+		},
+		{
+			"AirlineName": "Lufthansa",
+			"logoUrl": "https://pbs.twimg.com/profile_images/1037383965500473344/gshp_Mh5_400x400.jpg"
+		},
+		{
+			"AirlineName": "British Airways",
+			"logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/8174/brand.gif?itok=9FtI8aNz"
+		},
+		{
+			"AirlineName": "Emirates",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emirates_logo.svg/850px-Emirates_logo.svg.png"
+		},
+		{
+			"AirlineName": "UPS Airlines",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965956668133363712/Sans_titre.png"
+		},
+		{
+			"AirlineName": "easyJet",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965956938171039784/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Air France",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965957296368799824/Sans_titre.png"
+		},
+		{
+			"AirlineName": "JetBlue",
+			"logoUrl": "https://www.jetblue.com/magnoliapublic/dam/ui-assets/imagery/info-assets/logos-misc/JetBlue-og-image.jpg"
+		},
+		{
+			"AirlineName": "All Nippon Airways",
+			"logoUrl": "https://download.logo.wine/logo/All_Nippon_Airways/All_Nippon_Airways-Logo.wine.png"
+		},
+		{
+			"AirlineName": "Qatar Airways",
+			"logoUrl": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1498533849/zokufgzz57zcp2ws2ov7.png"
+		},
+		{
+			"AirlineName": "Envoy Air Inc.",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965957997102764152/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Aeroflot",
+			"logoUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d2/Aeroflot_1932.png/revision/latest?cb=20190315141727"
+		},
+		{
+			"AirlineName": "Shenzhen Airlines",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/fr/7/79/Shenzhen-Airlines.jpg"
+		},
+		{
+			"AirlineName": "Air Canada",
+			"logoUrl": "https://logos-world.net/wp-content/uploads/2021/05/Air-Canada-Logo.png"
+		},
+		{
+			"AirlineName": "TAM Linhas Aereas",
+			"logoUrl": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/61128e269f143500018c6fb6/picture"
+		},
+		{
+			"AirlineName": "Japan Airlines",
+			"logoUrl": "https://cdn.discordapp.com/attachments/688472316514009104/965958492164866078/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Korean Air",
+			"logoUrl": "http://assets.stickpng.com/images/587b511044060909aa603a80.png"
+		},
+		{
+			"AirlineName": "Alaska Airlines",
+			"logoUrl": "https://play-lh.googleusercontent.com/7KdxOhGsbkU7t_OJKqO_qGgvG8eH4W7H0CWG3ExpwJbdHk1B1YRmbzNXXMGMEZMxjaQ"
+		},
+		{
+			"AirlineName": "Hainan Airlines",
+			"logoUrl": "https://pbs.twimg.com/profile_images/1246572251664666624/FV8B5xPK_400x400.jpg"
+		},
+		{
+			"AirlineName": "SAS",
+			"logoUrl": "https://pbs.twimg.com/profile_images/1266394266659704834/idxe7hXv_400x400.jpg"
+		},
+		{
+			"AirlineName": "Garuda Indonesia",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Garuda_Indonesia_logo.png/640px-Garuda_Indonesia_logo.png"
+		},
+		{
+			"AirlineName": "Cathay Pacific",
+			"logoUrl": "https://www.businesslist.ph/img/ph/c/1542722139-58-cathay-pacific.jpg"
+		},
+		{
+			"AirlineName": "Republic Airlines",
+			"logoUrl": "https://i.pinimg.com/236x/3f/e2/41/3fe2411ca0453b1f903b6c0a87e8b242.jpg"
+		},
+		{
+			"AirlineName": "Saudi Arabian Airlines",
+			"logoUrl": "https://seeklogo.com/images/S/Saudi_Arabian_Airlines-logo-E05C118216-seeklogo.com.png"
+		},
+		{
+			"AirlineName": "Azul Brazilian Airlines",
+			"logoUrl": "https://www.seekpng.com/png/detail/296-2969655_azul-airlines-logo-azul-brazilian-airlines-logo.png"
+		},
+		{
+			"AirlineName": "Xiamen Airlines",
+			"logoUrl": "https://www.airport-brussels.com/images/airlines17/xiamen-airlines.png"
+		},
+		{
+			"AirlineName": "VRG Linhas Aereas S.A. - Grupo GOL",
+			"logoUrl": "https://juristas.com.br/wp-content/uploads/2018/11/gol-airlines-300x300.jpg"
+		},
+		{
+			"AirlineName": "Jazz Aviation LP",
+			"logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHM0XUwhakkDQ/company-logo_200_200/0/1626791022337?e=2147483647&v=beta&t=7cFjooJ-FUBdUFkWSq2bbyvUWl0FKNPr9wKHUyqgwgw"
+		},
+		{
+			"AirlineName": "Etihad Airways",
+			"logoUrl": "https://seekvectorlogo.com/wp-content/uploads/2018/05/etihad-airways-vector-logo-small.png"
+		},
+		{
+			"AirlineName": "Lan Airlines",
+			"logoUrl": "https://s5.mzstatic.com/us/r30/Purple2/v4/c9/01/7d/c9017d26-12b4-15e7-95de-fe413b63cfdb/mzl.jqocowef.png"
+		},
+		{
+			"AirlineName": "Endeavor Air",
+			"logoUrl": "https://logowik.com/content/uploads/images/endeavor-air7424.jpg"
+		},
+		{
+			"AirlineName": "Mesa Airlines, Inc.",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/MesaAirlinesLogo2.jpg"
+		},
+		{
+			"AirlineName": "Qantas",
+			"logoUrl": "https://www.seekpng.com/png/full/964-9641370_qantas-kangaroo-png-qantas-airline-logo.png"
+		},
+		{
+			"AirlineName": "Lion Airlines",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Lion_Air_Group_logo.svg"
+		},
+		{
+			"AirlineName": "WestJet",
+			"logoUrl": "https://www.westjet.com/content/dam/westjet/images/graphics/logos/180710-sidekick-appicon.png"
+		},
+		{
+			"AirlineName": "KLM",
+			"logoUrl": "https://www.nice-airport.nl/wp-content/uploads/2016/11/klm-logo.png"
+		},
+		{
+			"AirlineName": "Singapore Airlines",
+			"logoUrl": "https://vectorise.net/logo/wp-content/uploads/2015/12/Logo-Singapore-Airlines-Cargo.png"
+		},
+		{
+			"AirlineName": "PSA Airlines",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/PSA_Airlines_Logo.png"
+		},
+		{
+			"AirlineName": "Air India",
+			"logoUrl": "https://media.united.com/images/Media%20Database/SDL/MileagePlus%20Partners/airlines/air-india-v2.jpg"
+		},
+		{
+			"AirlineName": "Sichuan Airlines",
+			"logoUrl": "https://www.talaviation.com/Talaviation/UploadFiles/pgallery/201891311353691.jpg"
+		},
+		{
+			"AirlineName": "IndiGo",
+			"logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEkz2VXODx6ig/company-logo_200_200/0/1646469000785?e=2147483647&v=beta&t=tT9XELdEbRCewQX0Tt56yboMl-KwVAzUhCOERbM75tE"
+		},
+		{
+			"AirlineName": "Vueling",
+			"logoUrl": "http://ingmarbruinsma.nl/wp-content/uploads/2019/02/Vueling-logo2.jpg"
+		},
+		{
+			"AirlineName": "Alitalia",
+			"logoUrl": "https://www.logolynx.com/images/logolynx/60/60b9dbd2de5528b34a88a8a9b5da1e75.png"
+		},
+		{
+			"AirlineName": "AVIANCA",
+			"logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/untitled-1_59.png?itok=TJ7SP1nl"
+		},
+		{
+			"AirlineName": "Virgin Australia",
+			"logoUrl": "https://logowik.com/content/uploads/images/virgin-australia3456.jpg"
+		},
+		{
+			"AirlineName": "Shuttle America",
+			"logoUrl": "https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a.jpg"
+		},
+		{
+			"AirlineName": "Shandong Airlines",
+			"logoUrl": "https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.160825112342.y3x9/catalogue/shandong-airlines-connaught-place-delhi-international-airlines-qheu2-250.jpg"
+		},
+		{
+			"AirlineName": "Jet Airways",
+			"logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFHRMkVsy9EcA/company-logo_200_200/0/1519856150154?e=2147483647&v=beta&t=1P-NnPQ8NYoNoh4-NvGuJdSf3XO_d_YeY5STL21RpJU"
+		},
+		{
+			"AirlineName": "Tianjin Air Cargo",
+			"logoUrl": "https://pbs.twimg.com/profile_images/732854668989243392/WC-MTOmk_400x400.jpg"
+		},
+		{
+			"AirlineName": "Vietnam Airlines",
+			"logoUrl": "https://seeklogo.com/images/V/Vietnam_Airlines-logo-6AB0B5A286-seeklogo.com.png"
+		},
+		{
+			"AirlineName": "COPA Airlines",
+			"logoUrl": "https://149418139.v2.pressablecdn.com/wp-content/uploads/2020/09/copa-copa.png"
+		},
+		{
+			"AirlineName": "Shanghai Airlines",
+			"logoUrl": "https://logowik.com/content/uploads/images/shanghai-airlines9033.jpg"
+		},
+		{
+			"AirlineName": "Air Berlin",
+			"logoUrl": "http://2.bp.blogspot.com/_85dCU3S-dtE/S6n-PzXfYoI/AAAAAAAAA2M/ra0LIY1IBXA/s320/logo308.png"
+		},
+		{
+			"AirlineName": "Austrian",
+			"logoUrl": "https://yt3.ggpht.com/ytc/AKedOLRbasXhtIkO6nCIZ5gqJKZ_GsCrlNF00lzdz48Elg=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"AirlineName": "Spirit Airlines",
+			"logoUrl": "https://play-lh.googleusercontent.com/EAoDg62PBmZAUp5O7BYuwkmKz7IvO9f6tPs2j623xTSnDbXwPUv1ByqRtfkUtGbjwQ"
+		},
+		{
+			"AirlineName": "Asiana Airlines",
+			"logoUrl": "https://www.frankfurt-airport.com/content/dam/fraport-travel/airport/fl%C3%BCge-und-airlines/airlines/airline-icons_1_1/OZ_AsianaAirlines.png/_jcr_content/renditions/original./OZ_AsianaAirlines.png"
+		},
+		{
+			"AirlineName": "China Airlines",
+			"logoUrl": "https://1000logos.net/wp-content/uploads/2020/09/China-Airlines-logo.png"
+		},
+		{
+			"AirlineName": "Allegiant Air LLC",
+			"logoUrl": "https://www.petrotter.com/wp-content/uploads/2020/09/Allegiant_Air_Logo.png"
+		},
+		{
+			"AirlineName": "Malaysia Airlines",
+			"logoUrl": "https://cdn.iconscout.com/icon/free/png-256/malaysia-airlines-3441616-2874385.png"
+		},
+		{
+			"AirlineName": "AirAsia",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/1200px-AirAsia_New_Logo.svg.png"
+		},
+		{
+			"AirlineName": "Thai Airways International",
+			"logoUrl": "https://1000logos.net/wp-content/uploads/2020/04/Thai-Airways-Logo.png"
+		},
+		{
+			"AirlineName": "Iberia",
+			"logoUrl": "https://img2.freepng.fr/20180423/eoq/kisspng-logo-airbus-a330-iberia-flag-carrier-emirates-airline-5ade0d906418f8.58757241152450190441.jpg"
+		},
+		{
+			"AirlineName": "flybe",
+			"logoUrl": "https://seekvectorlogo.com/wp-content/uploads/2018/07/flybe-vector-logo.png"
+		},
+		{
+			"AirlineName": "Ethiopian Airlines",
+			"logoUrl": "https://cdn.worldvectorlogo.com/logos/ethiopian-airlines.svg"
+		},
+		{
+			"AirlineName": "Jetstar",
+			"logoUrl": "https://i.pinimg.com/736x/f5/20/29/f52029d1cffd06f25ec50741bcecd5b3--jetstar-airways-victoria-australia.jpg"
+		},
+		{
+			"AirlineName": "Wizz Air",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wizz_Air_logo.svg/1200px-Wizz_Air_logo.svg.png"
+		},
+		{
+			"AirlineName": "Air Wisconsin Airlines Corporation (AWAC)",
+			"logoUrl": "https://fontslogo.com/wp-content/uploads/2019/11/Air-Wisconsin-Logo-Font.jpg"
+		},
+		{
+			"AirlineName": "SWISS",
+			"logoUrl": "https://download.logo.wine/logo/Swiss_International_Air_Lines/Swiss_International_Air_Lines-Logo.wine.png"
+		},
+		{
+			"AirlineName": "Trans States Airlines, LLC",
+			"logoUrl": "https://worldairlinenews.files.wordpress.com/2019/11/71288985_2947330628614928_2948936902054510592_n.png?w=300&h=300"
+		},
+		{
+			"AirlineName": "EVA Air",
+			"logoUrl": "https://media.glassdoor.com/sqll/26175/eva-air-squarelogo-1426251093664.png"
+		},
+		{
+			"AirlineName": "S7 Airlines",
+			"logoUrl": "https://www.s7.ru/images/icons/icon-600x400.jpg"
+		},
+		{
+			"AirlineName": "Aeromexico",
+			"logoUrl": "https://logosvector.net/wp-content/uploads/2013/07/aeromexico-vector-logo.png"
+		},
+		{
+			"AirlineName": "Interjet",
+			"logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/9592/brand.gif?itok=UFJn50oF"
+		},
+		{
+			"AirlineName": "Aerolitoral S.A. de C.V.",
+			"logoUrl": "https://www.click2refund.com/Contents/GetAirlineLogo?id=3dc4b27a-b9ce-40f9-8ba6-690dc1dd33f6"
+		},
+		{
+			"AirlineName": "Capital Airlines",
+			"logoUrl": "https://seeklogo.com/images/C/capital-airlines-logo-20BCFA6D11-seeklogo.com.jpg"
+		},
+		{
+			"AirlineName": "Pegasus Airlines",
+			"logoUrl": "https://europe-dentaire.com/wp-content/uploads/2016/05/pegasus-airlines-eps-vector-logo.png"
+		},
+		{
+			"AirlineName": "UTair",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/UTair_logo_7.svg/1030px-UTair_logo_7.svg.png"
+		},
+		{
+			"AirlineName": "TUI Airways Limited",
+			"logoUrl": "https://www.tui.be/smile/fr/wp-content/uploads/sites/3/2019/08/TUI-logo-300x300.png"
+		},
+		{
+			"AirlineName": "Compass Airlines LLC",
+			"logoUrl": "https://www.aviationcv.com/upload/content-assets/images/0a1a1a1a1a1a1a1a1-11.jpg"
+		},
+		{
+			"AirlineName": "TAP Air Portugal",
+			"logoUrl": "https://www.flytap.com/assets/images/TapIconStore1024.png"
+		},
+		{
+			"AirlineName": "Virgin America",
+			"logoUrl": "https://cdn.discordapp.com/attachments/688472316514009104/965958769613869106/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Volaris",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Volaris_logo.svg/1200px-Volaris_logo.svg.png"
+		},
+		{
+			"AirlineName": "Germanwings GmbH",
+			"logoUrl": "https://i.pinimg.com/originals/ab/d0/80/abd080efa66429f74e1b22345c576d37.png"
+		},
+		{
+			"AirlineName": "Jet2.com Limited",
+			"logoUrl": "https://iconape.com/wp-content/png_logo_vector/jet2-com-logo.png"
+		},
+		{
+			"AirlineName": "Philippine Airlines",
+			"logoUrl": "https://logos-download.com/wp-content/uploads/2016/02/Philippine_Airlines_alternative_logo.png"
+		},
+		{
+			"AirlineName": "Spring Airlines Limited Corporation",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Spring_Airlines_Logo.png"
+		},
+		{
+			"AirlineName": "Frontier Airlines, Inc.",
+			"logoUrl": "https://media.glassdoor.com/sqll/5144/frontier-airlines-squarelogo-1572626786969.png"
+		},
+		{
+			"AirlineName": "Cebu Pacific Air",
+			"logoUrl": "https://www.seatlink.com/images/logos/no-text/sm/cebu-pacific.png"
+		},
+		{
+			"AirlineName": "Norwegian Air Shuttle A.S.",
+			"logoUrl": "https://play-lh.googleusercontent.com/-OvxAAL9jRElVm5KHjuvt9Hk-kYWI5D49-7_yUtXtmS877_1sX9PSE8jgLvaJlmzPfxh"
+		},
+		{
+			"AirlineName": "SF Airlines",
+			"logoUrl": "https://www.chilltracking.com/logo/sf-express.svg"
+		},
+		{
+			"AirlineName": "My Indo Airlines",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965965511118708786/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Air China LTD",
+			"logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUjMoRPxZYcWK7v6VgdcQKw1P-azIGM2GhXqdCOT6nZrF0H00qsLsVP5j-j0miGBIVV8&usqp=CAU"
+		},
+		{
+			"AirlineName": "YTO Cargo Airlines",
+			"logoUrl": "https://www.chilltracking.com/logo/yto.svg"
+		},
+		{
+			"AirlineName": "Blue Dart Aviation",
+			"logoUrl": "https://cdn.discordapp.com/attachments/965224699367927808/965966636970569738/Sans_titre.png"
+		},
+		{
+			"AirlineName": "Polar Air Cargo",
+			"logoUrl": "https://pbs.twimg.com/profile_images/1242193027571109893/hdb2UgQb_400x400.jpg"
+		},
+		{
+			"AirlineName": "Vistara",
+			"logoUrl": "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+		},
+		{
+			"AirlineName": "LATAM Airlines",
+			"logoUrl": "https://i.pinimg.com/originals/3f/72/40/3f724095dab67b805f4bb76483c6ae69.png"
+		},
+		{
+			"AirlineName": "Scoot",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Scoot_logo.svg/1200px-Scoot_logo.svg.png"
+		},
+		{
+			"AirlineName": "Starlux",
+			"logoUrl": "https://images.cdn.centreforaviation.com/stories/2017/oct/13/starlux_logo.jpg"
+		},
+		{
+			"AirlineName": "Hong Kong Express",
+			"logoUrl": "https://s.pilotsglobal.com/img/e/a/c/4/c/eac4c5a079920841a9475848ae427ff2.svg"
+		},
+		{
+			"AirlineName": "Central Airlines",
+			"logoUrl": "https://airhex.com/images/airline-logos/china-central-airlines-zhongzhou-airlines.png"
+		},
+		{
+			"AirlineName": "Longhao Airlines",
+			"logoUrl": "https://airhex.com/images/airline-logos/zhongyuan-longhao-airlines.png"
+		},
+		{
+			"AirlineName": "ANA",
+			"logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/ana-4-logo-svg-vector.svg"
+		},
+		{
+			"AirlineName": "Sounds Air",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Sounds_Air_Logo.jpg"
+		},
+		{
+			"AirlineName": "Air New Zealand",
+			"logoUrl": "https://www.ideqa.com/content/published/api/v1.1/assets/CONT614E32F40861424681FC2A603F3D2F97/native?cb=_cache_4ca9&channelToken=b3c596d8455548d88806ea02d5891a4b"
+		},
+		{
+			"AirlineName": "Oman Air",
+			"logoUrl": "https://cdn2.dontpayfull.com/media/logos/size/300x300/omanair.com..png?v=20190621144353549847"
+		}
+	]
+}

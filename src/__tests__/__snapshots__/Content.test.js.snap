@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<div
+  className="flex flex-col w-0 flex-1 overflow-hidden"
+>
+  <main
+    className="flex-1 relative z-0 overflow-y-auto focus:outline-none"
+    data-testid="content-1"
+    style={
+      Object {
+        "display": "flex",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <div
+      className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8"
+    >
+      <div
+        className="py-4"
+      >
+        <div
+          className="border-4 border-dashed border-gray-200 rounded-lg h-96"
+          style={
+            Object {
+              "height": "780px",
+              "marginLeft": "-250px",
+              "marginTop": "50px",
+              "width": "1200px",
+            }
+          }
+        />
+      </div>
+    </div>
+  </main>
+  <div
+    data-testid="content-2"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "height": "100px",
+        "justifyContent": "center",
+        "left": "40%",
+        "position": "fixed",
+        "top": "88%",
+        "width": "500px",
+      }
+    }
+  >
+    <div>
+      <div
+        style={
+          Object {
+            "marginLeft": "90px",
+          }
+        }
+      >
+        <p
+          className="text-sm text-gray-700"
+          style={
+            Object {
+              "marginLeft": "-180px",
+            }
+          }
+        >
+          Showing 
+          <span
+            className="font-medium"
+          >
+            1
+          </span>
+           to 
+          <span
+            className="font-medium"
+          >
+            10
+          </span>
+           of
+           
+          <span
+            className="font-medium"
+          >
+            ⌛
+          </span>
+           results
+        </p>
+      </div>
+      <div
+        style={
+          Object {
+            "height": "10px",
+          }
+        }
+      />
+      <div>
+        <nav
+          aria-label="Pagination"
+          className="relative z-0 inline-flex rounded-md shadow-sm -space-x-px"
+          style={
+            Object {
+              "marginLeft": "-50px",
+            }
+          }
+        >
+          <a
+            className="relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-500 hover:bg-gray-50"
+            href="#"
+            onClick={[Function]}
+          >
+            <span
+              className="sr-only"
+            >
+              Previous
+            </span>
+            <svg
+              aria-hidden="true"
+              className="h-5 w-5"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clipRule="evenodd"
+                d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+                fillRule="evenodd"
+              />
+            </svg>
+          </a>
+          <a
+            className="relative inline-flex items-center px-2 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-500 hover:bg-gray-50"
+            href="#"
+            onClick={[Function]}
+          >
+            <span
+              className="sr-only"
+            >
+              Next
+            </span>
+            <svg
+              aria-hidden="true"
+              className="h-5 w-5"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clipRule="evenodd"
+                d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                fillRule="evenodd"
+              />
+            </svg>
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div
+    className="relative inline-block text-left"
+    data-testid="filter-1"
+    style={
+      Object {
+        "left": "82%",
+        "position": "absolute",
+        "top": "7%",
+      }
+    }
+  >
+    <div>
+      <button
+        aria-expanded={false}
+        aria-haspopup={true}
+        className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500"
+        id="headlessui-menu-button-2"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        type="button"
+      >
+        Options
+        <svg
+          aria-hidden="true"
+          className="-mr-1 ml-2 h-5 w-5"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clipRule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fillRule="evenodd"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+`;
