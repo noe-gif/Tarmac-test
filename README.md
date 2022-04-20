@@ -19,7 +19,7 @@ It is composed of multiple features such as :
 ### Display the flight number and the schedule time departure
 ### Pagination system
 
-Baucause one picture made by me is worth a thousand words : 
+Redux lifecycle (redux improves the accessibility of a state in the components lifecycles) :
 
 <img src="https://cdn.discordapp.com/attachments/965224699367927808/965746656052138085/redux-lifecycle.png" />
 
