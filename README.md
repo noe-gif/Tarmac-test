@@ -30,6 +30,11 @@ $ npm i
 $ npm start
 ```
 
+## test
+```terminal
+$ npm run test
+```
+
 # Usage (run fullstack app on your machine)
 
 ## Prerequisites
