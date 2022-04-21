@@ -49,3 +49,8 @@ axios: ^0.26.1 | @tailwindcss/forms: ^0.5.0
 react: ^18.0.0 | @heroicons/react: ^1.0.6
 dotenv: ^16.2.0 | @headlessui/react: ^1.5.0
 redux-saga: ^1.1.3 | bootstrap: ^4.7.4
+
+
+# Screenshot of the interface
+
+<img style={border-radius: '20px'} src="https://cdn.discordapp.com/attachments/965224699367927808/965746656052138085/redux-lifecycle.png" />
