@@ -12,7 +12,7 @@
 */
 
 /* ⚛️ react libraries */
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 
 /* 🎨 assets libraries*/
@@ -29,12 +29,12 @@ import { getCompanies } from "../../redux/reducers/companies";
 
 /* Different navigations options */
 const navigation = [
-	{ name: 'Departures', href: '#', current: true, id: 0 },
-	{ name: 'Analytics', href: '#', current: false, id: 1 },
-	{ name: 'Performance', href: '#', current: false, id: 2 },
-	{ name: 'Real-time data', href: '#', current: false, id: 3 },
-	{ name: 'Predictions', href: '#', current: false, id: 4 },
-	{ name: 'Alerts', href: '#', current: false, id: 5 },
+	{ name: 'Departures', href: '#!', current: true, id: 0 },
+	{ name: 'Analytics', href: '#!', current: false, id: 1 },
+	{ name: 'Performance', href: '#!', current: false, id: 2 },
+	{ name: 'Real-time data', href: '#!', current: false, id: 3 },
+	{ name: 'Predictions', href: '#!', current: false, id: 4 },
+	{ name: 'Alerts', href: '#!', current: false, id: 5 },
 ]
 
 
@@ -99,7 +99,7 @@ const Home = () => {
 						{/* ⚠️ JSX OF BOTTOM USER INFO SECTION */}
 
 						<div className="flex-shrink-0 flex border-t border-gray-200 p-4" data-testid={`user-${1}`}>
-							<a href="#" className="flex-shrink-0 w-full group block">
+							<a href="#!" className="flex-shrink-0 w-full group block">
 								<div className="flex items-center">
 									<div>
 										<img

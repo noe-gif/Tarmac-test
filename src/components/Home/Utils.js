@@ -45,7 +45,7 @@ export const numberOfResultsPerFilters = (filters, flights) => {
 	for (let i = 0; filters[i]; i++) {
 		counter = 0;
 		for (let y = 0; flights.flights && flights.flights.data[y]; y++) {
-			if (filters[i].airline_name == flights.flights.data[y].airline.name) {
+			if (filters[i].airline_name === flights.flights.data[y].airline.name) {
 				counter++;
 			}
 		}

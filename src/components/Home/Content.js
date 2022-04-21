@@ -11,7 +11,7 @@
 */
 
 /* ⚛️ react libraries */
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 /* 🎨 assets libraries*/
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid'
@@ -61,7 +61,7 @@ const Content = (props) => {
 		currentPosts = posts.flights.data.slice(indexOfFirstPost, indexOfLastPost)
 	} else if (filter !== '') {
 		pageNumbers = [];
-		let xx = posts.flights.data.filter((flight) => { if (flight.airline.name == filter) { return flight } })
+		let xx = posts.flights.data.filter((flight) => { if (flight.airline.name === filter) { return flight } })
 		for (let i = 1; i <= Math.ceil(xx.length / postsPerPage); i++) {
 			pageNumbers.push(i);
 		}
@@ -109,14 +109,14 @@ const Content = (props) => {
 						<div style={{ height: '10px' }}></div>
 						<div>
 							<nav className={styler.cssClass10} style={{ marginLeft: '-50px' }} aria-label="Pagination">
-								<a href="#" className={styler.cssClass1} onClick={() => { setCurrentPage(currentPage === 1 ? currentPage : currentPage - 1) }}>
+								<a href="#!" className={styler.cssClass1} onClick={() => { setCurrentPage(currentPage === 1 ? currentPage : currentPage - 1) }}>
 									<span className={styler.cssClass11}>Previous</span>
 									<ChevronLeftIcon className={styler.cssClass12} aria-hidden="true" />
 								</a>
 								{pageNumbers.map(number =>
 									<a onClick={() => { setCurrentPage(number) }} key={number} href="!#" className={number === currentPage ? styler.classSelected : styler.classNotSelected}>{number}</a>
 								)}
-								<a href="#" className={styler.cssClass4} onClick={() => { setCurrentPage(currentPage === 10 ? currentPage : currentPage + 1) }}>
+								<a href="#!" className={styler.cssClass4} onClick={() => { setCurrentPage(currentPage === 10 ? currentPage : currentPage + 1) }}>
 									<span className={styler.cssClass11}>Next</span>
 									<ChevronRightIcon className={styler.cssClass12} aria-hidden="true" />
 								</a>

@@ -59,11 +59,11 @@ export default function Filter(props) {
 				style={{ position: 'absolute', left: '0%' }} >
 				<Menu.Items className={styler.cssClassB}>
 					<div className="py-1">
-						<Menu.Item >{({ active }) => (<a href="#" className={'block px-4 py-2 text-sm'} onClick={() => { setSelectedFilter('Options'); props.getFilter('') }}>- &nbsp; -</a>)}</Menu.Item>
+						<Menu.Item >{({ active }) => (<a href="#!" className={'block px-4 py-2 text-sm'} onClick={() => { setSelectedFilter('Options'); props.getFilter('') }}>- &nbsp; -</a>)}</Menu.Item>
 						{companies !== undefined ? companies.map((airline, i) =>
 							<Menu.Item key={i}>
 								{({ active }) => (
-									<a data-testid={`filter-comp-${i}`} href="#" className={classNames(active ? styler.cssClassC : 'text-gray-700', 'block px-4 py-2 text-sm')}
+									<a data-testid={`filter-comp-${i}`} href="#!" className={classNames(active ? styler.cssClassC : 'text-gray-700', 'block px-4 py-2 text-sm')}
 										onClick={() => { setSelectedFilter(airline.airline_name); props.getFilter(airline.airline_name) }}>
 										{airline.airline_name} ({resultsPerFilter[i]})
 									</a>

@@ -44,14 +44,14 @@ export const getStatus = (status) => {
 		['landed', '#B9C1FF']
 	]
 
-	const result = statusArray.filter(offset => offset[0] == status);
+	const result = statusArray.filter(offset => offset[0] === status);
 	return result[0][1]
 }
 
 // returns logo of company name depending on the .json data
 export const getLogoFromCompany = (companyName) => {
 	for (let i = 0; companiesData.data[i]; i++) {
-		if (companyName == companiesData.data[i].AirlineName) {
+		if (companyName === companiesData.data[i].AirlineName) {
 			return (companiesData.data[i].logoUrl);
 		}
 	}

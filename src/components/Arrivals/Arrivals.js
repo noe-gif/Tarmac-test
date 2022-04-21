@@ -13,7 +13,7 @@
 */
 
 /* ⚛️ react libraries */
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 /* 📦 my components*/
 import * as styler from './style';
