@@ -53,4 +53,4 @@ redux-saga: ^1.1.3 | bootstrap: ^4.7.4
 
 # Screenshot of the interface
 
-<img style={border-radius: '20px'} src="https://cdn.discordapp.com/attachments/965224699367927808/965746656052138085/redux-lifecycle.png" />
+<img src="https://cdn.discordapp.com/attachments/965224699367927808/966472886317629530/unknown.png" />
